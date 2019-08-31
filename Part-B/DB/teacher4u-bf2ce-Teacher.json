@@ -1,0 +1,26 @@
+{
+  "age" : "17/2/1991",
+  "email" : "peretz.itay@gmail.com",
+  "gender" : "male",
+  "lastname" : "peretz",
+  "name" : "itay",
+  "city":"peretz",
+  "phone":"0547107691",
+  "pic":"urlpath",
+  "courses":[
+    "algebra" ,"java"
+  ],
+  "studyCities": [
+    "ashkelon","lod"
+  ],
+  "UniversityNAme":"kirya",
+  "generaldescription":"hey my name is itay and i love to lean java",
+  "priceatstudent":"200",
+  "price":"150",
+  "availablesdays":[
+    "sanday","monday"
+  ],
+  "availablehours":[
+    "09","10","11","12","15","18"
+  ]
+}
