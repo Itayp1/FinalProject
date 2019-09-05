@@ -1,0 +1,86 @@
+Id,Name,Shape Library,Page ID,Contained By,Group,Line Source,Line Destination,Source Arrow,Destination Arrow,Text Area 1,Text Area 2,Text Area 3
+1,Page,,,,,,,,, Blank UML,,
+2,Text,Standard,1,,39,,,,,Teacher4U Class Diagram,,
+3,Text,Standard,1,,39,,,,,"itay peretz  |  September 1, 2019",,
+4,Class,UML,1,,39,,,,,User,"- email: String
+- name: String
+- lastName: String
+-age: int
+-phoneNum: String
+-gender: enum
+-city: String
+-accountType: enum","+ timetable
++ chat
++ profile"
+5,Class,UML,1,,39,,,,,Registration,- email: String,"+ registeAsStudent
++ registerAsTeacher"
+6,Class,UML,1,,39,,,,,Teacher,"- cources :  String[]
+- studyCities: String[]
+- univercityName: String
+- generalDescription: String
+- price: int
+- priceAtStudent: int
+- avaiableDays 
+- avaiableHours","+ profile
++ review"
+7,Class,UML,1,,39,,,,,Student,,"+ searchTeacher
+"
+8,Class,UML,1,,39,,,,,TimeTable,"+ attribute1:type = defaultValue
++ attribute2:type
+- attribute3:type","+ operation1(params):returnType
+- operation2(params)
+- operation3()"
+9,Class,UML,1,,39,,,,,Lessons,- teachet: Teacher,"+ getAvaiableTime
++ appointmentLesson
++ scheduleLesson"
+10,Class,UML,1,,39,,,,,Chat,"+ attribute1:type = defaultValue
++ attribute2:type
+- attribute3:type","+ operation1(params):returnType
+- operation2(params)
+- operation3()"
+11,Class,UML,1,,39,,,,,Login,"- email: String
+- password: String","+ userExist 
++ loginAsTeacher
++ loginAsStudent
++Register
+"
+12,Class,UML,1,,39,,,,,SearchTeacher,"- course: String
+- city: String","+ getTeachers(course ,city)
++ getTeacherDetails
++  "
+13,Class,UML,1,,39,,,,,TeacherReview,- Teacher: teacher,"+ getReviews
++ getRating
++ getDetailes
++ addRating
+"
+14,Rounded Rectangle Container,Flowchart Shapes,1,,40,,,,,,,
+15,Text,Standard,1,14,40,,,,,"Tutorials (Hold Shift - ⌘ or Ctrl, then click)",,
+16,Button,UI Mockups,1,14,40,,,,,Watch Lucidchart basic tutorials,,
+17,Text,Standard,1,14,40,,,,,Description,,
+18,Text,Standard,1,14,40,,,,,"This blank UML template can help you: 
+Access shapes to create UML activity, sequence, state machine, or use case diagrams
+Describe the boundary, structure, and behavior of a system and its objects
+Create a UML diagram starting from a blank canvas
+ Add content to customize this blank canvas to your use case. ",,
+19,User Image,User Images,1,14,40,,,,,,,
+20,Line,,1,,39,2,2,None,None,,,
+21,Line,,1,,39,11,5,None,Aggregation,,,
+22,Line,,1,,39,6,11,Aggregation,None,,,
+23,Line,,1,,39,7,11,Aggregation,None,,,
+24,Line,,1,,39,5,7,None,Aggregation,,,
+25,Line,,1,,39,5,6,None,Aggregation,,,
+26,Line,,1,,39,6,4,None,Generalization,,,
+27,Line,,1,,39,7,4,None,Generalization,,,
+28,Line,,1,,39,6,10,None,Generalization,,,
+29,Line,,1,,39,7,10,None,Generalization,,,
+30,Line,,1,,39,7,12,None,Aggregation,,,
+31,Line,,1,,39,9,9,None,None,,,
+32,Line,,1,,39,12,9,None,None,,,
+33,Line,,1,,39,9,9,None,None,,,
+34,Line,,1,,39,8,9,None,None,,,
+35,Line,,1,,39,13,12,Composition,None,,,
+36,Line,,1,,39,7,13,None,None,,,
+37,Line,,1,,39,6,8,None,None,,,
+38,Line,,1,,39,6,13,None,None,,,
+39,Group 1,,1,,,,,,,,,
+40,Group 2,,1,,,,,,,,,
