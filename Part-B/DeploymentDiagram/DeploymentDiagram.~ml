@@ -95,7 +95,7 @@
 <XPD:REF name="DiagramOwner">INYFvy3d4Ey8pHapyyrVrgAA</XPD:REF>
 <XPD:OBJ name="DiagramView" type="UMLDeploymentDiagramView" guid="IgSk2YxSPUifZExBtHF4bAAA">
 <XPD:REF name="Diagram">hpfn4IZdFk2j1neE/rkK0AAA</XPD:REF>
-<XPD:ATTR name="#OwnedViews" type="integer">26</XPD:ATTR>
+<XPD:ATTR name="#OwnedViews" type="integer">27</XPD:ATTR>
 <XPD:OBJ name="OwnedViews[0]" type="UMLNodeView" guid="9P7jbChehUu1lRfkOZ4VMQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
@@ -159,7 +159,7 @@ AndroidMobileDevice
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">120</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">224</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">220</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">176</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">140</XPD:ATTR>
 <XPD:REF name="Model">nsr7t9Je7UOUJ6gRXqWPfQAA</XPD:REF>
@@ -188,8 +188,8 @@ AndroidMobileDevice
 <XPD:OBJ name="OwnedViews[5]" type="UMLTextView" guid="kUpjX3FQcEqIxk0/jcTMtwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">148</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">248</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">156</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">252</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">83</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">23</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">Teacher4U.apk
@@ -198,10 +198,10 @@ AndroidMobileDevice
 <XPD:OBJ name="OwnedViews[6]" type="UMLNodeView" guid="0Iqn3VrfWkuEDzLqi7qXGAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">524</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">40</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">673</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">689</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">564</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">28</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">605</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">209</XPD:ATTR>
 <XPD:REF name="Model">WnOtnBLABESaARV430UsxgAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="sEUrRaIwMkicSi8KJ6bBkwAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="IGf95qQmfUSqalSg6SQftAAA">
@@ -228,9 +228,9 @@ AndroidMobileDevice
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">768</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">72</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">51</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">54</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">23</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">FireBase
+<XPD:ATTR name="Text" type="string">Mongodb
 </XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedViews[8]" type="UMLNodeInstanceView" guid="owYAD4VbMkq2nyEIqduQNgAA">
@@ -257,15 +257,15 @@ AndroidMobileDevice
 <XPD:OBJ name="OwnedViews[9]" type="UMLNodeView" guid="J8N2fqJSKki2E/dhqXIv3QAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">520</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">256</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">528</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">308</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">617</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">429</XPD:ATTR>
 <XPD:REF name="Model">AByKNZUqBE+gcdwQxUsx6gAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="HYdYPQJCUEC7Qxu9MtHadAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="9Th7UhhuP064WFYSqKZpkAAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">NodejsApi</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Heroku server NodejsApi</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="IfqXnu+J+UqhXdmaKnWIVgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -286,9 +286,9 @@ AndroidMobileDevice
 <XPD:OBJ name="OwnedViews[10]" type="UMLAssociationView" guid="A6POV+vIgE6JdlCO13o37gAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">364,296;524,324</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">364,330;528,397</XPD:ATTR>
 <XPD:REF name="Model">+HR3/P5WwUyixEaeABDssQAA</XPD:REF>
-<XPD:REF name="Head">0Iqn3VrfWkuEDzLqi7qXGAAA</XPD:REF>
+<XPD:REF name="Head">J8N2fqJSKki2E/dhqXIv3QAA</XPD:REF>
 <XPD:REF name="Tail">9P7jbChehUu1lRfkOZ4VMQAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="fWVLwiINt0q+oRmBXQeenQAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -522,36 +522,7 @@ AndroidMobileDevice
 <XPD:REF name="Model">OeE0eOamEk6CanzCW1BuBAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[17]" type="UMLNodeView" guid="4c2JmcsDLEm/mGh+s1F/CwAA">
-<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
-<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">936</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">432</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">181</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">89</XPD:ATTR>
-<XPD:REF name="Model">lZ2wj/70YEuWcE7spNrGkwAA</XPD:REF>
-<XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="KIZUlnNED0Wz+QPj7RRu5gAA">
-<XPD:OBJ name="NameLabel" type="LabelView" guid="COMh07ZUQEGF4fdaL9dTdAAA">
-<XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Student_Teacher_Chat</XPD:ATTR>
-</XPD:OBJ>
-<XPD:OBJ name="StereotypeLabel" type="LabelView" guid="wanze3o6tUe9rcV6SGlvZQAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-</XPD:OBJ>
-<XPD:OBJ name="PropertyLabel" type="LabelView" guid="I5yC9wTloEiFJpWYiOpTggAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="DeployedComponentCompartment" type="UMLDeployedComponentCompartmentView" guid="C0dhZEsSc0a36F6I6bKxuQAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:REF name="Model">lZ2wj/70YEuWcE7spNrGkwAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="DeployedArtifactCompartment" type="UMLDeployedArtifactCompartmentView" guid="ONIOneAW9EKSgRi138ClAQAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:REF name="Model">lZ2wj/70YEuWcE7spNrGkwAA</XPD:REF>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="OwnedViews[18]" type="UMLNodeView" guid="J/9ZxoG1PkGYG+IuVV8mrwAA">
+<XPD:OBJ name="OwnedViews[17]" type="UMLNodeView" guid="J/9ZxoG1PkGYG+IuVV8mrwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">560</XPD:ATTR>
@@ -580,7 +551,7 @@ AndroidMobileDevice
 <XPD:REF name="Model">poO/cbfQdU6atwpVBXZKhwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[19]" type="UMLNodeView" guid="Qi2dAlFINEWKbBb7mBqGwAAA">
+<XPD:OBJ name="OwnedViews[18]" type="UMLNodeView" guid="Qi2dAlFINEWKbBb7mBqGwAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">928</XPD:ATTR>
@@ -609,7 +580,7 @@ AndroidMobileDevice
 <XPD:REF name="Model">bLmvr/ImTU29WXq88E5Q/QAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[20]" type="UMLNodeView" guid="o9or7tTlSkyqK5DKrt34cQAA">
+<XPD:OBJ name="OwnedViews[19]" type="UMLNodeView" guid="o9or7tTlSkyqK5DKrt34cQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">724</XPD:ATTR>
@@ -638,7 +609,7 @@ AndroidMobileDevice
 <XPD:REF name="Model">zZaiWawY4Ua9uc1dkl9yLgAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[21]" type="UMLNodeView" guid="oeK2DQ2PakK5CPBZUEzGIAAA">
+<XPD:OBJ name="OwnedViews[20]" type="UMLNodeView" guid="oeK2DQ2PakK5CPBZUEzGIAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">720</XPD:ATTR>
@@ -667,7 +638,7 @@ AndroidMobileDevice
 <XPD:REF name="Model">X/kWdlc5tUulrY5ZzhRfOAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[22]" type="UMLNodeView" guid="wIVrE7UlNku97daq36sXQgAA">
+<XPD:OBJ name="OwnedViews[21]" type="UMLNodeView" guid="wIVrE7UlNku97daq36sXQgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">940</XPD:ATTR>
@@ -696,18 +667,18 @@ AndroidMobileDevice
 <XPD:REF name="Model">Ds5ycIxw2EKGZeSerHr79QAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[23]" type="UMLNodeView" guid="OwBbr/Jwik25LUvdxfeO+AAA">
+<XPD:OBJ name="OwnedViews[22]" type="UMLNodeView" guid="OwBbr/Jwik25LUvdxfeO+AAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">92</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">512</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">508</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">280</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">172</XPD:ATTR>
 <XPD:REF name="Model">bRZBWjTjp0KC5NRtA9p0VwAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="4hItSBd6ckKvWVx4lX87hAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="M4a7S7BQ0Ua+SvE3CRV9EQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Fasebook Api Server</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Google Api Server</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="UQGHWBy4N0Ws3fQifqAdtgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -725,7 +696,7 @@ AndroidMobileDevice
 <XPD:REF name="Model">bRZBWjTjp0KC5NRtA9p0VwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[24]" type="UMLNodeView" guid="gjXz/ugilEGBwOXWp8eRcAAA">
+<XPD:OBJ name="OwnedViews[23]" type="UMLNodeView" guid="gjXz/ugilEGBwOXWp8eRcAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">144</XPD:ATTR>
@@ -754,10 +725,10 @@ AndroidMobileDevice
 <XPD:REF name="Model">cV3yEeZMt0+9XNItbInRvwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[25]" type="UMLAssociationView" guid="Tu2Bk+SxxUuuar7Re8OSigAA">
+<XPD:OBJ name="OwnedViews[24]" type="UMLAssociationView" guid="Tu2Bk+SxxUuuar7Re8OSigAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">371,567;520,535</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">371,577;528,558</XPD:ATTR>
 <XPD:REF name="Model">8WiBS5V1zUmcLaxzWFNNcQAA</XPD:REF>
 <XPD:REF name="Head">J8N2fqJSKki2E/dhqXIv3QAA</XPD:REF>
 <XPD:REF name="Tail">OwBbr/Jwik25LUvdxfeO+AAA</XPD:REF>
@@ -836,6 +807,100 @@ AndroidMobileDevice
 <XPD:ATTR name="Width" type="integer">50</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">8</XPD:ATTR>
 <XPD:REF name="Model">170G/2TWiUWQNyVAxZa3JwAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedViews[25]" type="UMLTextView" guid="pRLm/LBe2U6Wp/I5iTgsUgAA">
+<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
+<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">424</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">508</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">32</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">23</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">http
+</XPD:ATTR>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedViews[26]" type="UMLAssociationView" guid="y04iIe2xQ0yN09dRkTJHGQAA">
+<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
+<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">852,308;858,236</XPD:ATTR>
+<XPD:REF name="Model">EING+bYKNUuFAQm8I3MhfwAA</XPD:REF>
+<XPD:REF name="Head">0Iqn3VrfWkuEDzLqi7qXGAAA</XPD:REF>
+<XPD:REF name="Tail">J8N2fqJSKki2E/dhqXIv3QAA</XPD:REF>
+<XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="pjbHBWtGpEuUa3lqx3aNLwAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:REF name="Model">EING+bYKNUuFAQm8I3MhfwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="YtISONW0UECp8GMcxkhjpwAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
+<XPD:REF name="Model">EING+bYKNUuFAQm8I3MhfwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="PropertyLabel" type="EdgeLabelView" guid="hins/4462E+02/bHSbmqAQAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-1.5707963267949</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:REF name="Model">EING+bYKNUuFAQm8I3MhfwAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="HeadRoleNameLabel" type="EdgeLabelView" guid="d5gLrvaF3EW419GotPJcGAAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-0.523598775598299</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
+<XPD:ATTR name="EdgePosition" type="EdgePositionKind">epHead</XPD:ATTR>
+<XPD:REF name="Model">qrvT1YUyIkC9UOPFy8KxJAAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="TailRoleNameLabel" type="EdgeLabelView" guid="yrtcY4pSPk+Jzlvlckr+tQAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0.523598775598299</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
+<XPD:ATTR name="EdgePosition" type="EdgePositionKind">epTail</XPD:ATTR>
+<XPD:REF name="Model">GNntR9Y3W0ikrWnjeFgu+QAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="HeadMultiplicityLabel" type="EdgeLabelView" guid="GzVFat/eUEK+W6FWQ7vYpAAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0.523598775598299</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">25</XPD:ATTR>
+<XPD:ATTR name="EdgePosition" type="EdgePositionKind">epHead</XPD:ATTR>
+<XPD:REF name="Model">qrvT1YUyIkC9UOPFy8KxJAAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="TailMultiplicityLabel" type="EdgeLabelView" guid="TWimml4HTkeu7DmD/zpUvAAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-0.523598775598299</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">25</XPD:ATTR>
+<XPD:ATTR name="EdgePosition" type="EdgePositionKind">epTail</XPD:ATTR>
+<XPD:REF name="Model">GNntR9Y3W0ikrWnjeFgu+QAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="HeadPropertyLabel" type="EdgeLabelView" guid="2PqbQ5bQ5E+p0uaO5HcAfAAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-0.785398163397448</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">40</XPD:ATTR>
+<XPD:ATTR name="EdgePosition" type="EdgePositionKind">epHead</XPD:ATTR>
+<XPD:REF name="Model">qrvT1YUyIkC9UOPFy8KxJAAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="TailPropertyLabel" type="EdgeLabelView" guid="EBxGQFV1EUqjhkQ3qRA5mAAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0.785398163397448</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">40</XPD:ATTR>
+<XPD:ATTR name="EdgePosition" type="EdgePositionKind">epTail</XPD:ATTR>
+<XPD:REF name="Model">GNntR9Y3W0ikrWnjeFgu+QAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="HeadQualifierCompartment" type="UMLQualifierCompartmentView" guid="0TK7v8U+dUmPCEjMuPvPyAAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">-1000</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">-1000</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">50</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">8</XPD:ATTR>
+<XPD:REF name="Model">qrvT1YUyIkC9UOPFy8KxJAAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="TailQualifierCompartment" type="UMLQualifierCompartmentView" guid="/ntUgj1Ty0a7h7IGwepP+AAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">-1000</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">-1000</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">50</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">8</XPD:ATTR>
+<XPD:REF name="Model">GNntR9Y3W0ikrWnjeFgu+QAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
@@ -1125,7 +1190,7 @@ AndroidMobileDevice
 </XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:ATTR name="#OwnedElements" type="integer">73</XPD:ATTR>
+<XPD:ATTR name="#OwnedElements" type="integer">74</XPD:ATTR>
 <XPD:OBJ name="OwnedElements[0]" type="UMLNode" guid="UmjU6gVxH0WJwKfLEuu0RQAA">
 <XPD:ATTR name="StereotypeName" type="string">Device</XPD:ATTR>
 <XPD:REF name="Namespace">INYFvy3d4Ey8pHapyyrVrgAA</XPD:REF>
@@ -1205,8 +1270,8 @@ AndroidMobileDevice
 <XPD:REF name="Views[2]">E5ZNCOsb8UKYf5hCSNLXgQAA</XPD:REF>
 <XPD:ATTR name="#Associations" type="integer">3</XPD:ATTR>
 <XPD:REF name="Associations[0]">RqjKP+BufUanWmgJpNREnQAA</XPD:REF>
-<XPD:REF name="Associations[1]">UIWjLGbk5EWgib9s8ZuW7wAA</XPD:REF>
-<XPD:REF name="Associations[2]">FKQRp4IXLEWXAuNLz2WFKgAA</XPD:REF>
+<XPD:REF name="Associations[1]">FKQRp4IXLEWXAuNLz2WFKgAA</XPD:REF>
+<XPD:REF name="Associations[2]">qrvT1YUyIkC9UOPFy8KxJAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[12]" type="UMLNodeInstance" guid="i5RfC209fUmsn71vfu5CYAAA">
 <XPD:ATTR name="Name" type="string">storage</XPD:ATTR>
@@ -1227,14 +1292,16 @@ AndroidMobileDevice
 <XPD:REF name="Namespace">INYFvy3d4Ey8pHapyyrVrgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[16]" type="UMLNode" guid="AByKNZUqBE+gcdwQxUsx6gAA">
-<XPD:ATTR name="Name" type="string">NodejsApi</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Heroku server NodejsApi</XPD:ATTR>
 <XPD:REF name="Namespace">INYFvy3d4Ey8pHapyyrVrgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">J8N2fqJSKki2E/dhqXIv3QAA</XPD:REF>
 <XPD:REF name="Views[1]">3cwVNNwKLkeGTwmExAaxCAAA</XPD:REF>
 <XPD:REF name="Views[2]">spuMBAB4zESESSO4M7V3CgAA</XPD:REF>
-<XPD:ATTR name="#Associations" type="integer">1</XPD:ATTR>
+<XPD:ATTR name="#Associations" type="integer">3</XPD:ATTR>
 <XPD:REF name="Associations[0]">D+O/RzQ9iUShlXQYJySLdwAA</XPD:REF>
+<XPD:REF name="Associations[1]">UIWjLGbk5EWgib9s8ZuW7wAA</XPD:REF>
+<XPD:REF name="Associations[2]">GNntR9Y3W0ikrWnjeFgu+QAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[17]" type="UMLPackage" guid="WZPlToF9bkeosvkLRXlV+gAA">
 <XPD:ATTR name="Name" type="string">Package2</XPD:ATTR>
@@ -1271,7 +1338,7 @@ AndroidMobileDevice
 </XPD:OBJ>
 <XPD:OBJ name="Connections[1]" type="UMLAssociationEnd" guid="UIWjLGbk5EWgib9s8ZuW7wAA">
 <XPD:REF name="Association">+HR3/P5WwUyixEaeABDssQAA</XPD:REF>
-<XPD:REF name="Participant">WnOtnBLABESaARV430UsxgAA</XPD:REF>
+<XPD:REF name="Participant">AByKNZUqBE+gcdwQxUsx6gAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">2E1SK1A3dEuTfi26w8VxrgAA</XPD:REF>
 <XPD:REF name="Views[1]">lS0b4FYMKUi8k5SlYfPNPQAA</XPD:REF>
@@ -1547,10 +1614,6 @@ AndroidMobileDevice
 <XPD:OBJ name="OwnedElements[59]" type="UMLNode" guid="lZ2wj/70YEuWcE7spNrGkwAA">
 <XPD:ATTR name="Name" type="string">Student_Teacher_Chat</XPD:ATTR>
 <XPD:REF name="Namespace">INYFvy3d4Ey8pHapyyrVrgAA</XPD:REF>
-<XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
-<XPD:REF name="Views[0]">4c2JmcsDLEm/mGh+s1F/CwAA</XPD:REF>
-<XPD:REF name="Views[1]">C0dhZEsSc0a36F6I6bKxuQAA</XPD:REF>
-<XPD:REF name="Views[2]">ONIOneAW9EKSgRi138ClAQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[60]" type="UMLNode" guid="poO/cbfQdU6atwpVBXZKhwAA">
 <XPD:ATTR name="Name" type="string">timetable</XPD:ATTR>
@@ -1613,7 +1676,7 @@ AndroidMobileDevice
 <XPD:REF name="Views[2]">tTQ8nspRGUWXgnekXVx+VwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[70]" type="UMLNode" guid="bRZBWjTjp0KC5NRtA9p0VwAA">
-<XPD:ATTR name="Name" type="string">Fasebook Api Server</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Google Api Server</XPD:ATTR>
 <XPD:REF name="Namespace">INYFvy3d4Ey8pHapyyrVrgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">OwBbr/Jwik25LUvdxfeO+AAA</XPD:REF>
@@ -1643,8 +1706,8 @@ AndroidMobileDevice
 <XPD:REF name="Participant">bRZBWjTjp0KC5NRtA9p0VwAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">SRou190yLkWzzX8dlb6+qwAA</XPD:REF>
-<XPD:REF name="Views[1]">2O0LUyielkKRpufY9nIAXgAA</XPD:REF>
-<XPD:REF name="Views[2]">GR7abh431UayFlcn0U3DPQAA</XPD:REF>
+<XPD:REF name="Views[1]">GR7abh431UayFlcn0U3DPQAA</XPD:REF>
+<XPD:REF name="Views[2]">2O0LUyielkKRpufY9nIAXgAA</XPD:REF>
 <XPD:REF name="Views[3]">m9Pi/PChZEqcmXVN4BkuiAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Connections[1]" type="UMLAssociationEnd" guid="D+O/RzQ9iUShlXQYJySLdwAA">
@@ -1652,9 +1715,37 @@ AndroidMobileDevice
 <XPD:REF name="Participant">AByKNZUqBE+gcdwQxUsx6gAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">NSbPd2fvAEe+iMBGj74tUQAA</XPD:REF>
-<XPD:REF name="Views[1]">lxhvIj0nyEW5Fk7IL6gjXwAA</XPD:REF>
-<XPD:REF name="Views[2]">sYu8vZHx+Ua8PytBUi/mdQAA</XPD:REF>
+<XPD:REF name="Views[1]">sYu8vZHx+Ua8PytBUi/mdQAA</XPD:REF>
+<XPD:REF name="Views[2]">lxhvIj0nyEW5Fk7IL6gjXwAA</XPD:REF>
 <XPD:REF name="Views[3]">2Gp0IRwUAE66t11lnvDulwAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedElements[73]" type="UMLAssociation" guid="EING+bYKNUuFAQm8I3MhfwAA">
+<XPD:REF name="Namespace">INYFvy3d4Ey8pHapyyrVrgAA</XPD:REF>
+<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
+<XPD:REF name="Views[0]">y04iIe2xQ0yN09dRkTJHGQAA</XPD:REF>
+<XPD:REF name="Views[1]">pjbHBWtGpEuUa3lqx3aNLwAA</XPD:REF>
+<XPD:REF name="Views[2]">YtISONW0UECp8GMcxkhjpwAA</XPD:REF>
+<XPD:REF name="Views[3]">hins/4462E+02/bHSbmqAQAA</XPD:REF>
+<XPD:ATTR name="#Connections" type="integer">2</XPD:ATTR>
+<XPD:OBJ name="Connections[0]" type="UMLAssociationEnd" guid="GNntR9Y3W0ikrWnjeFgu+QAA">
+<XPD:ATTR name="IsNavigable" type="boolean">False</XPD:ATTR>
+<XPD:REF name="Association">EING+bYKNUuFAQm8I3MhfwAA</XPD:REF>
+<XPD:REF name="Participant">AByKNZUqBE+gcdwQxUsx6gAA</XPD:REF>
+<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
+<XPD:REF name="Views[0]">yrtcY4pSPk+Jzlvlckr+tQAA</XPD:REF>
+<XPD:REF name="Views[1]">EBxGQFV1EUqjhkQ3qRA5mAAA</XPD:REF>
+<XPD:REF name="Views[2]">TWimml4HTkeu7DmD/zpUvAAA</XPD:REF>
+<XPD:REF name="Views[3]">/ntUgj1Ty0a7h7IGwepP+AAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Connections[1]" type="UMLAssociationEnd" guid="qrvT1YUyIkC9UOPFy8KxJAAA">
+<XPD:REF name="Association">EING+bYKNUuFAQm8I3MhfwAA</XPD:REF>
+<XPD:REF name="Participant">WnOtnBLABESaARV430UsxgAA</XPD:REF>
+<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
+<XPD:REF name="Views[0]">d5gLrvaF3EW419GotPJcGAAA</XPD:REF>
+<XPD:REF name="Views[1]">2PqbQ5bQ5E+p0uaO5HcAfAAA</XPD:REF>
+<XPD:REF name="Views[2]">GzVFat/eUEK+W6FWQ7vYpAAA</XPD:REF>
+<XPD:REF name="Views[3]">0TK7v8U+dUmPCEjMuPvPyAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
